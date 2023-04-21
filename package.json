@@ -1,7 +1,7 @@
 {
-    "name": "todo-list-mern",
+    "name": "todo-list-dashboard",
     "version": "1.0.0",
-    "description": "Backend for Todo List using MERN stack.",
+    "description": "Todo List using MERN stack.",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
@@ -17,8 +17,8 @@
         "mongo",
         "mongoose"
     ],
-    "author": "Delano Lourenco",
-    "license": "ISC",
+    "author": "Tanesha Tyagi",
+    "license": "TT",
     "dependencies": {
         "bcrypt": "^5.0.1",
         "body-parser": "^1.20.0",
